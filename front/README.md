@@ -1,6 +1,4 @@
-# HELLO WORLD
-
-# QTalk Messenger (q_talk)
+# QTalk (q_talk)
 
 Messenger for my homies
 
@@ -22,6 +20,14 @@ quasar dev
 yarn lint
 # or
 npm run lint
+```
+
+
+### Format the files
+```bash
+yarn format
+# or
+npm run format
 ```
 
 
